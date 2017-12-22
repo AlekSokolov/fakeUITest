@@ -14,7 +14,7 @@ public class SampleTest {
     @Test
     public void successfulTest() {
         assertEquals(1, 1); // проверка, что ожидаемое значение соответствует тому,
-                                            // что пришло от сервера в UI или BE second commit
+                                            // что пришло от сервера в UI или BE 
     }
 
     @Test
